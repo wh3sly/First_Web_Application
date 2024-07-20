@@ -36,10 +36,10 @@ Pour utiliser ce projet, vous aurez besoin de :
 
 ## login
 - **Adminisrateur** :
-    login: admin@gmail.com\n
+    login: admin@gmail.com<br>
     password: admin
 - **Utilisateur** :
-    login: user@gmail.com\n
+    login: user@gmail.com<br>
     password: 123   
 
 ## License
