@@ -35,15 +35,15 @@ Pour utiliser ce projet, vous aurez besoin de :
 4. Ouvrez votre navigateur web et accédez à l'application en saisissant l'URL `http://localhost/nom_du_répertoire_du_projet`.
 
 ## login
-- **Adminisrateur** :
-    login: admin@gmail.com<br>
-    password: admin
-- **Utilisateur** :
-    login: user@gmail.com<br>
-    password: 123   
+- **Adminisrateur** :<br>
+    login: `admin@gmail.com`<br>
+    password: `admin`
+- **Utilisateur** :<br>
+    login: `user@gmail.com`<br>
+    password: `123`   
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out to me:
