@@ -35,11 +35,11 @@ Pour utiliser ce projet, vous aurez besoin de :
 4. Ouvrez votre navigateur web et accédez à l'application en saisissant l'URL `http://localhost/nom_du_répertoire_du_projet`.
 
 ## login
-- Adminisrateur :
-    login: admin@gmail.com
+- **Adminisrateur** :
+    login: admin@gmail.com\n
     password: admin
-- Utilisateur :
-    login: user@gmail.com
+- **Utilisateur** :
+    login: user@gmail.com\n
     password: 123   
 
 ## License
