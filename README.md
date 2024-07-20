@@ -2,6 +2,8 @@
 
 Provision Rapide est une application web conçue pour la gestion de l'approvisionnement domestique. Elle permet aux utilisateurs de gérer leur stock domestique de manière efficace, avec des analyses graphiques et des notifications d'alerte.
 
+![Capture d'écran de l'application](images/screenshot.png)
+
 ## Fonctionnalités
 
 - **Gestion de stock domestique** : Suivi et gestion de vos approvisionnements à la maison. ![Stock](https://img.shields.io/badge/Stock-Managment-blue)
