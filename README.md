@@ -25,7 +25,6 @@ Provision Rapide est une application web conçue pour la gestion de l'approvisio
 ## Prérequis
 Pour utiliser ce projet, vous aurez besoin de :
 
-- Un navigateur web
 - Un serveur locale XAMPP (ou vien WAMP)
 - Une base de données MySQL
 
