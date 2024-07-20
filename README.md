@@ -34,3 +34,21 @@ Pour utiliser ce projet, vous aurez besoin de :
 2. Placez le répertoire du projet dans le répertoire `htdocs` de votre environnement d'exécution PHP (XAMPP).
 3. Importez le fichier cd `provisionrapide.sql` dans votre base de données MySQL.
 4. Ouvrez votre navigateur web et accédez à l'application en saisissant l'URL `http://localhost/nom_du_répertoire_du_projet`.
+
+## login
+- Adminisrateur :
+    login: admin@gmail.com
+    password: admin
+- Utilisateur :
+    login: user@gmail.com
+    password: 123   
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+If you have any questions or feedback, feel free to reach out to me:
+
+- [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anass.chammami@um5r.ac.ma)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-chammami-78ab25304/)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wh3sly)   
