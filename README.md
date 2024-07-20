@@ -31,6 +31,6 @@ Pour utiliser ce projet, vous aurez besoin de :
 
 ## Installation
 1. Téléchargez ou clonez le répertoire de ce projet sur votre ordinateur.
-2. Placez le répertoire du projet dans le répertoire htdocs de votre environnement d'exécution PHP (XAMPP).
-3. Importez le fichier cd 'provisionrapide.sql' dans votre base de données MySQL.
-4. Ouvrez votre navigateur web et accédez à l'application en saisissant l'URL 'http://localhost/nom_du_répertoire_du_projet'.
+2. Placez le répertoire du projet dans le répertoire `htdocs` de votre environnement d'exécution PHP (XAMPP).
+3. Importez le fichier cd `provisionrapide.sql` dans votre base de données MySQL.
+4. Ouvrez votre navigateur web et accédez à l'application en saisissant l'URL `http://localhost/nom_du_répertoire_du_projet`.
